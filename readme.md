@@ -37,4 +37,4 @@ states to cover the space even though each state is sampled independently.
 * `fermat_gpc.rl` — bandit environment, equivariant policy, CEM training.
 * `fermat_gpc.drb` — de Rham–Betti locus via PSLQ.
 ## Notebooks
-`GpcNb.ipyBb(1).ipynb` shows the RL construction for d=13, `D13Case.ipynb` contains a conditional proof of GPC on this case.
+`GpcNb.ipyBb(1).ipynb` shows the RL construction for d=13, `D13Case.ipynb` contains a conditional proof of GPC on this case. `plots.ipynb` shows the plots illustrating the results, make sure the data has been generated before running it.
